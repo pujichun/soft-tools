@@ -88,11 +88,7 @@ pip install mycli
 [vscode](https://code.visualstudio.com/)
 
 - 同步配置
-
-  ```
-  46b9c1f0529df679eee674f4f6bc791d 453620708b9bce070196eaa6ecde015b3a3170ac
-  ```
-
+- 使用setting sync插件
 - 修改配置文件
 
 [typora](https://www.typora.io/)
