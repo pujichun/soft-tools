@@ -183,11 +183,13 @@ Windows应用商店下载，文件快速预览
 
 类似于mac上的聚焦搜索，[PowerToys](https://github.com/microsoft/PowerToys)
 
-![image-20210625170328183](C:\Users\pujic\AppData\Roaming\Typora\typora-user-images\image-20210625170328183.png)
+![](https://gitee.com/pujichun/BlogImage/raw/master/img/image-20210625170328183.png)
 
 #### scoop
 
 Windows下的一个包管理器
+
+![](https://gitee.com/pujichun/BlogImage/raw/master/img/20210625172741.png)
 
 - 设置scoop安装位置
 
@@ -212,6 +214,8 @@ Windows下的一个包管理器
 #### chocolatey
 
 [chocolatey](https://chocolatey.org/)是Windows下的另一个包管理器，和scoop搭配使用
+
+![](https://gitee.com/pujichun/BlogImage/raw/master/img/20210625173918.png)
 
 - 安装
 
