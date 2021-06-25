@@ -99,6 +99,8 @@ pip install mycli
 
 - 设置存储位置和删除旧版本
 
+
+
 #### 版本控制
 
 [Git](https://git-scm.com/)
@@ -111,7 +113,7 @@ pip install mycli
 
 #### 终端&ssh
 
-Windows terminal
+Windows terminal（微软应用商店下载）
 
 [mobaxterm](https://mobaxterm.mobatek.net/)
 
@@ -127,9 +129,15 @@ Windows terminal
 
 [drawio](https://github.com/jgraph/drawio-desktop)
 
+![](https://gitee.com/pujichun/BlogImage/raw/master/img/QQ%E6%88%AA%E5%9B%BE20210625171004.png)
+
 #### GIF录制
 
 [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
+
+![](https://gitee.com/pujichun/BlogImage/raw/master/img/20210625171225.png)
+
+能对最后录制的每一帧画面进行编辑
 
 #### 抓包
 
@@ -141,9 +149,15 @@ Windows terminal
 
 [PicGo](https://github.com/Molunerfinn/PicGo)
 
+![](https://gitee.com/pujichun/BlogImage/raw/master/img/20210625170350.png)
+
 #### 文件查找
 
 [everything](https://www.voidtools.com/zh-cn/)
+
+![](https://gitee.com/pujichun/BlogImage/raw/master/img/20210625170503.png)
+
+速度极快
 
 #### 不可描述软件
 
@@ -157,13 +171,19 @@ clash
 
 [Potplayer](https://potplayer.daum.net/?lang=zh_CN)
 
-#### 文件快速预览
+#### Qucklook
 
-Qucklook，Windows应用商店下载
+Windows应用商店下载，文件快速预览
+
+![](https://gitee.com/pujichun/BlogImage/raw/master/img/20210625170158.png)
+
+像csv数据，code，图片都可以预览很方便
 
 #### PowerToys
 
 类似于mac上的聚焦搜索，[PowerToys](https://github.com/microsoft/PowerToys)
+
+![image-20210625170328183](C:\Users\pujic\AppData\Roaming\Typora\typora-user-images\image-20210625170328183.png)
 
 #### scoop
 
@@ -216,3 +236,4 @@ Windows下的一个包管理器
 
 主题可以参照[官方文档](https://ohmyposh.dev/docs/themes)
 
+![](https://gitee.com/pujichun/BlogImage/raw/master/img/20210625170658.png)
