@@ -232,3 +232,18 @@ sudo pacman -S tmux
 sudo pacman -S gnupg
 ```
 
+#### xsel
+
+与neovim剪切板互通
+
+```shell
+sudo pacman -S xsel
+```
+
+#### docker-qq
+
+通过docker容器运行稳定的qq环境
+
+```shell
+https://github.com/top-bettercode/docker-qq
+```
