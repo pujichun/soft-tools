@@ -236,8 +236,14 @@ Windows下的一个包管理器
 
 [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)是一个Windows下的终端美化工具，搭配Windows Terminal使用，毕竟代码不会天天写但是终端天天用
 
-因为安装过程稀里糊涂，所以~~弄明白后更新~~
+因为安装过程稀里糊涂，~~所以弄明白后更新~~
 
 主题可以参照[官方文档](https://ohmyposh.dev/docs/themes)
 
 ![](https://gitee.com/pujichun/BlogImage/raw/master/img/20210625170658.png)
+
+#### carnac
+
+Windows下的键盘回显工具，很简单就能使用
+
+<img src="https://gitee.com/pujichun/BlogImage/raw/master/img/20210718164800.png" style="zoom:50%;" />

@@ -244,6 +244,25 @@ sudo pacman -S xsel
 
 通过docker容器运行稳定的qq环境
 
+项目地址：https://github.com/top-bettercode/docker-qq
+
+#### yesplaymusic
+
+颜值巨高的音乐播放器
+
+项目地址：https://github.com/qier222/YesPlayMusic
+
+从releases中下载打包好的软件，然后通过pacman安装
+
+#### Electron QQ
+
+稳定
+
+项目地址：https://github.com/Clansty/electron-qq
+
 ```shell
-https://github.com/top-bettercode/docker-qq
+yay -S electron-qq
 ```
+
+
+
